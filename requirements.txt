@@ -1,0 +1,15 @@
+# Python Version 3.11
+
+black==25.1.0
+geopy==2.4.1
+llama-index==0.12.43
+llama-index-embeddings-huggingface==0.5.4
+llama-index-llms-ollama==0.6.2
+llama-index-vector-stores-milvus==0.8.5
+overpass==0.7.2
+playwright==1.53.0
+pymilvus==2.5.11
+requests==2.32.4
+sentence-transformers==4.1.0
+torch==2.7.1
+transformers==4.52.4
