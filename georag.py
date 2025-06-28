@@ -31,7 +31,7 @@ MILVUS_HOST = "127.0.0.1"
 MILVUS_PORT = "19530"
 COLLECTION_NAME = "georag_karlsruhe"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-LLM_MODEL = "gemma:2b"
+LLM_MODEL = "mistral"
 DIMENSION = 384  # Dimension for all-MiniLM-L6-v2 embedding model
 # Default user location, if no location is provided
 # Setting Karlsruhe Palace for demo purposes
