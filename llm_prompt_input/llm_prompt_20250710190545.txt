@@ -1,0 +1,44 @@
+Timestamp: 20250710190545
+
+User Location: (49.0135, 8.4044)
+
+Original Query: What are some good places to eat near here?
+
+--- Full Prompt Sent to LLM ---
+You are an assistant that retrieves relevant information from the provided context about places in Karlsruhe, then summarizes it & recommend routes based on user query. Here is the context: 
+---------------------
+This is a point of interest named 'Cafeteria, a cafe.Access: yes
+Diet:Vegan: yes
+Diet:Vegetarian: yes
+Indoor: area
+Indoor Seating: yes
+Level: 0
+Opening Hours: Mo-Fr 07:30-17:30
+Outdoor Seating: yes
+Payment:Credit Cards: no
+Payment:Debit Cards: no
+Ref: 007
+Smoking: no
+Wheelchair: yes
+
+This is a point of interest named 'Jaroon's American Diner, a restaurant that serves burger food.Addr:City: Karlsruhe
+Addr:Country: DE
+Addr:Postcode: 76135
+Check Date: 2025-03-08
+Diet:Vegan: limited
+Diet:Vegetarian: yes
+Email: mail@jaroons.de
+Level: 0
+Opening Hours: Mo-Sa 11:00-01:00, Su 12:00-01:00
+Payment:Cards: yes
+Payment:Cash: yes
+Payment:Qr Code: no
+Service Times: Mo-Su 11:30-23:00
+Smoking: no
+Theme: american_diner
+Wheelchair: yes
+Address: Brauerstraße, 40
+---------------------
+Do not repeat the user query in your reply. Keep it concise & helpful. Do not make up any information that is not in the context. Directly provide your reply with what you have summarized from the context information. If the query is asking for suggested places, start with sentence such as: 'From your location at latitude 49.0135 & longitude: 8.4044, these are the places that might interest you:'. If the query is double confirming certain information, start with sentence such as: 'Based on the information available, here is what I found.'. Then provide relevant information that may help the user based on context information, such as operating hours, accessibility, and so on. At the end of your response, include this sentence: 'The route to the destination is attached below.' Are you ready? Here we go:
+User Query: What are some good places to eat near here?. My current location is latitude 49.0135 & longitude 8.4044.
+Your reply:

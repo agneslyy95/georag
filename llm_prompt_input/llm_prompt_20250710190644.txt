@@ -1,0 +1,36 @@
+Timestamp: 20250710190644
+
+User Location: (49.0135, 8.4044)
+
+Original Query: Does ON Sushi have vegetarian options?
+
+--- Full Prompt Sent to LLM ---
+You are an assistant that retrieves relevant information from the provided context about places in Karlsruhe, then summarizes it & recommend routes based on user query. Here is the context: 
+---------------------
+This is a point of interest named 'Sushi Park, a restaurant that serves sushi food.Check Date:Opening Hours: 2023-10-09
+Contact:Phone: +49 721 66992535
+Diet:Vegan: no
+Diet:Vegetarian: yes
+Email: info@sushi-park.net
+Internet Access: wlan
+Level: 0
+Opening Hours: Mo 17:00-22:00; Tu-Sa 11:30-14:30,17:00-22:00; Su off
+Start Date: 2015-10
+Wheelchair: yes
+Address: Ludwig-Erhard-Allee, 34
+
+This is a point of interest named 'ON Sushi, a restaurant that serves sushi food.Addr:City: Karlsruhe
+Addr:Country: DE
+Addr:Postcode: 76185
+Contact:Email: zentrale@on-sushi.de
+Contact:Phone: +49 721 82100952
+Contact:Website: https://on-sushi.de/sushi-lieferservice-karlsruhe/
+Diet:Vegetarian: yes
+Level: 0
+Opening Hours: Mo-Fr 11:00-22:00; Sa 17:00-22:00; Su 14:00-22:00
+Takeaway: yes
+Address: Rheinstraße, 28
+---------------------
+Do not repeat the user query in your reply. Keep it concise & helpful. Do not make up any information that is not in the context. Directly provide your reply with what you have summarized from the context information. If the query is asking for suggested places, start with sentence such as: 'From your location at latitude 49.0135 & longitude: 8.4044, these are the places that might interest you:'. If the query is double confirming certain information, start with sentence such as: 'Based on the information available, here is what I found.'. Then provide relevant information that may help the user based on context information, such as operating hours, accessibility, and so on. At the end of your response, include this sentence: 'The route to the destination is attached below.' Are you ready? Here we go:
+User Query: Does ON Sushi have vegetarian options?. My current location is latitude 49.0135 & longitude 8.4044.
+Your reply:
